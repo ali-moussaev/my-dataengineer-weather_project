@@ -1,0 +1,515 @@
+Country,City,Temperature,Humidity,Weather,Pressure,Wind Speed,Date
+Émirats Arabes Unis,Abu Dhabi,23.44,67,ciel dégagé,1015,3.09,2025-02-16 19:14:09
+Algérie,Alger,15.46,59,ciel dégagé,1013,3.09,2025-02-16 19:14:09
+Andorre,Andorra la Vella,-0.47,89,nuageux,1017,3.1,2025-02-16 19:14:09
+Madagascar,Antananarivo,18.98,100,pluie fine,1013,3.09,2025-02-16 19:14:09
+Antigua-et-Barbuda,Antigua,25.46,68,légère pluie,1014,2.18,2025-02-16 19:14:09
+Samoa,Apia,27.83,77,pluie modérée,1010,2.75,2025-02-16 19:14:09
+Paraguay,Asunción,38.48,43,peu nuageux,1003,6.17,2025-02-16 19:14:09
+Grèce,Athènes,11.98,91,partiellement nuageux,1013,1.54,2025-02-16 19:14:09
+Irak,Bagdad,10.95,58,nuageux,1017,1.54,2025-02-16 19:14:09
+Azerbaïdjan,Baku,9.03,93,nuageux,1017,6.17,2025-02-16 19:14:09
+Mali,Bamako,38.23,11,ciel dégagé,1006,1.03,2025-02-16 19:14:09
+République Centrafricaine,Bangui,31.05,19,couvert,1003,1.19,2025-02-16 19:14:09
+Gambie,Banjul,19.83,81,nuageux,1008,6.37,2025-02-16 19:14:09
+Roumanie,Bucarest,-2.61,89,chutes de neige,1022,4.12,2025-02-16 19:14:09
+Burundi,Bujumbura,23.32,82,légère pluie,1011,1.32,2025-02-16 19:14:09
+Argentine,Buenos Aires,29.42,51,couvert,1006,2.24,2025-02-16 19:14:10
+Égypte,Caire,0.75,77,couvert,1016,3.4,2025-02-16 19:14:10
+Australie,Canberra,7.52,77,ciel dégagé,1020,3.09,2025-02-16 19:14:10
+Venezuela,Caracas,26.49,53,partiellement nuageux,1013,2.57,2025-02-16 19:14:10
+Sri Lanka,Colombo,24.97,68,couvert,1012,0.28,2025-02-16 19:14:10
+Guinée,Conakry,26.9,73,ciel dégagé,1007,6.52,2025-02-16 19:14:10
+Danemark,Copenhague,-6.59,83,ciel dégagé,1028,2.57,2025-02-16 19:14:10
+Djibouti,Djibouti,21.22,73,peu nuageux,1013,6.59,2025-02-16 19:14:10
+Sénégal,Dakar,18.95,82,nuageux,1010,7.67,2025-02-16 19:14:10
+Syrie,Damas,8.89,67,nuageux,1017,0.87,2025-02-16 19:14:10
+Bangladesh,Dhaka,21.99,73,brume,1013,0,2025-02-16 19:14:10
+Qatar,Doha,18.99,88,ciel dégagé,1015,3.6,2025-02-16 19:14:10
+Irlande,Dublin,10.78,75,nuageux,1022,2.57,2025-02-16 19:14:10
+Finlande,Helsinki,-6.39,92,chutes de neige,1015,2.06,2025-02-16 19:14:10
+Pakistan,Islamabad,15.47,62,ciel dégagé,1016,3.2,2025-02-16 19:14:10
+Indonésie,Jakarta,26.16,93,couvert,1010,3.19,2025-02-16 19:14:11
+Soudan du Sud,Juba,32.42,29,couvert,1006,1.09,2025-02-16 19:14:11
+Népal,Kathmandu,11.12,82,brume,1017,1.03,2025-02-16 19:14:11
+République Démocratique du Congo,Kinshasa,25.97,75,nuageux,1006,1.09,2025-02-16 19:14:11
+Rwanda,Kigali,22.71,60,partiellement nuageux,1012,2.06,2025-02-16 19:14:11
+Ukraine,Kiev,-7.93,79,nuageux,1021,1.16,2025-02-16 19:14:11
+Rwanda,Kigali,22.71,60,partiellement nuageux,1012,2.06,2025-02-16 19:14:11
+Malaisie,Kuala Lumpur,24.73,94,couvert,1011,0.7,2025-02-16 19:14:11
+Nigéria,Lagos,28.41,80,couvert,1006,3.95,2025-02-16 19:14:11
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:14:11
+Royaume-Uni,Londres,2.74,73,couvert,1022,6.17,2025-02-16 19:14:11
+Zambie,Lusaka,18.96,94,couvert,1010,1.43,2025-02-16 19:14:11
+Guinée équatoriale,Malabo,29.21,74,partiellement nuageux,1008,4.39,2025-02-16 19:14:11
+Nicaragua,Managua,31.67,44,nuageux,1011,5.84,2025-02-16 19:14:11
+Philippines,Manille,26.48,83,ciel dégagé,1012,0.89,2025-02-16 19:14:11
+Mozambique,Maputo,27.35,80,couvert,1012,2.13,2025-02-16 19:14:11
+Lesotho,Maseru,16.04,93,forte pluie,1017,3.57,2025-02-16 19:14:12
+Biélorussie,Minsk,-7.33,62,nuageux,1021,2.21,2025-02-16 19:14:12
+Somalie,Mogadiscio,24.86,83,partiellement nuageux,1011,10.32,2025-02-16 19:14:12
+Liberia,Monrovia,27.75,69,partiellement nuageux,1007,5.01,2025-02-16 19:14:12
+Russie,Moscou,-9.73,59,couvert,1014,2.6,2025-02-16 19:14:12
+Kenya,Nairobi,22.62,56,peu nuageux,1012,6.17,2025-02-16 19:14:12
+Mauritanie,Nouakchott,22.96,62,nuageux,1010,8.2,2025-02-16 19:14:12
+Canada,Ottawa,-7.86,89,chutes de neige,997,5.66,2025-02-16 19:14:12
+France,Paris,4.37,74,ciel dégagé,1019,4.12,2025-02-16 19:14:12
+Haïti,Port-au-Prince,32.77,29,peu nuageux,1015,0.67,2025-02-16 19:14:12
+Papouasie-Nouvelle-Guinée,Port Moresby,26.04,85,couvert,1009,1.84,2025-02-16 19:14:12
+Cap-Vert,Praia,21.79,68,nuageux,1013,7.7,2025-02-16 19:14:12
+Maroc,Rabat,17.04,67,partiellement nuageux,1016,2.57,2025-02-16 19:14:12
+Arabie Saoudite,Riyad,20.34,49,nuageux,1013,4.82,2025-02-16 19:14:12
+El Salvador,San Salvador,31.53,36,couvert,1012,1.39,2025-02-16 19:14:13
+Yémen,Sanaa,18.71,48,nuageux,1017,0.73,2025-02-16 19:14:13
+Suède,Stockholm,-4.02,71,nuageux,1020,2.06,2025-02-16 19:14:13
+Bolivie,Sucre,20.53,47,partiellement nuageux,1006,5.44,2025-02-16 19:14:13
+Iran,Téhéran,8.73,24,nuageux,1018,3.09,2025-02-16 19:14:13
+Albanie,Tirana,9.49,76,ciel dégagé,1013,0.51,2025-02-16 19:14:13
+Tunisie,Tunis,18.78,36,couvert,1014,1.79,2025-02-16 19:14:13
+Canada,Vancouver,4.02,91,couvert,1013,3.58,2025-02-16 19:14:13
+Autriche,Vienne,-0.36,63,nuageux,1023,4.47,2025-02-16 19:14:13
+Lituanie,Vilnius,-6.54,77,nuageux,1021,3.6,2025-02-16 19:14:13
+Pologne,Warsaw,-5.12,73,ciel dégagé,1025,2.57,2025-02-16 19:14:13
+États-Unis,Washington D.C.,12.05,88,couvert,988,5.66,2025-02-16 19:14:13
+Arménie,Yerevan,-0.91,74,couvert,1021,0.51,2025-02-16 19:14:13
+Croatie,Zagreb,1.61,56,couvert,1021,3.6,2025-02-16 19:14:13
+Nigéria,Abuja,30.88,10,couvert,1006,1.95,2025-02-16 19:14:13
+Jordanie,Amman,9.2,80,ciel dégagé,1016,1.93,2025-02-16 19:14:14
+Turkménistan,Ashgabat,6.5,59,ciel dégagé,1023,3.11,2025-02-16 19:14:14
+Azerbaïdjan,Baku,9.03,93,nuageux,1017,6.17,2025-02-16 19:14:14
+Gambie,Banjul,19.83,81,nuageux,1008,6.37,2025-02-16 19:14:14
+République Centrafricaine,Bangui,31.05,19,couvert,1003,1.19,2025-02-16 19:14:14
+Gambie,Banjul,19.83,81,nuageux,1008,6.37,2025-02-16 19:14:14
+Kirghizistan,Bishkek,-1.89,85,couvert,1030,1.68,2025-02-16 19:14:14
+Burundi,Bujumbura,23.32,82,légère pluie,1011,1.32,2025-02-16 19:14:14
+Roumanie,Bucharest,-2.61,89,brume,1022,4.12,2025-02-16 19:14:14
+Égypte,Cairo,18.42,45,ciel dégagé,1017,0,2025-02-16 19:14:14
+Australie,Canberra,7.52,77,ciel dégagé,1020,3.09,2025-02-16 19:14:14
+Afrique du Sud,Cape Town,20.65,77,ciel dégagé,1012,7.6,2025-02-16 19:14:14
+Bangladesh,Dhaka,21.99,73,brume,1013,0,2025-02-16 19:14:14
+Sénégal,Dakar,18.95,82,nuageux,1010,7.67,2025-02-16 19:14:14
+Qatar,Doha,18.99,88,ciel dégagé,1015,3.6,2025-02-16 19:14:14
+Rwanda,Kigali,22.71,60,partiellement nuageux,1012,2.06,2025-02-16 19:14:14
+Malaisie,Kuala Lumpur,24.73,94,couvert,1011,0.7,2025-02-16 19:14:15
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:14:15
+Bahreïn,Manama,17.77,90,couvert,1016,0.45,2025-02-16 19:14:15
+Guinée Équatoriale,Malabo,29.47,70,partiellement nuageux,1007,3.66,2025-02-16 19:14:15
+Biélorussie,Minsk,-7.33,62,nuageux,1021,2.21,2025-02-16 19:14:15
+Philippines,Manila,26.48,83,ciel dégagé,1012,0.89,2025-02-16 19:14:15
+Zambie,Lusaka,18.96,94,couvert,1010,1.43,2025-02-16 19:14:15
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:14:15
+Royaume-Uni,Londres,2.74,73,couvert,1022,6.17,2025-02-16 19:14:15
+Liberia,Monrovia,27.75,69,partiellement nuageux,1007,5.01,2025-02-16 19:14:15
+Haïti,Port-au-Prince,32.77,29,peu nuageux,1015,0.67,2025-02-16 19:14:15
+Émirats Arabes Unis,Abu Dhabi,23.44,68,ciel dégagé,1014,3.09,2025-02-16 19:30:36
+Algérie,Alger,15.46,59,ciel dégagé,1013,2.06,2025-02-16 19:30:36
+Andorre,Andorra la Vella,-0.95,87,légères chutes de neige,1018,2.96,2025-02-16 19:30:37
+Madagascar,Antananarivo,18.98,100,légère pluie,1013,2.06,2025-02-16 19:30:37
+Antigua-et-Barbuda,Antigua,22.54,78,légère pluie,1014,2.18,2025-02-16 19:30:37
+Samoa,Apia,23.95,77,pluie modérée,1012,4.41,2025-02-16 19:30:37
+Paraguay,Asunción,39.05,41,peu nuageux,1003,6.17,2025-02-16 19:30:37
+Grèce,Athènes,11.98,91,partiellement nuageux,1013,1.54,2025-02-16 19:30:37
+Irak,Bagdad,10.95,58,nuageux,1017,1.54,2025-02-16 19:30:37
+Azerbaïdjan,Baku,9.03,93,nuageux,1017,6.17,2025-02-16 19:30:37
+Mali,Bamako,37.23,12,ciel dégagé,1007,1.54,2025-02-16 19:30:37
+République Centrafricaine,Bangui,28.1,44,brume sèche,1003,0.51,2025-02-16 19:30:37
+Gambie,Banjul,19.93,81,couvert,1009,7.19,2025-02-16 19:30:37
+Roumanie,Bucarest,-2.61,89,chutes de neige,1022,4.12,2025-02-16 19:30:37
+Burundi,Bujumbura,23.05,82,légère pluie,1012,0.78,2025-02-16 19:30:37
+Argentine,Buenos Aires,28.71,52,peu nuageux,1006,3.09,2025-02-16 19:30:37
+Égypte,Caire,0.4,77,partiellement nuageux,1017,3.54,2025-02-16 19:30:38
+Australie,Canberra,7.19,78,ciel dégagé,1020,1.79,2025-02-16 19:30:38
+Venezuela,Caracas,26.49,54,couvert,1012,2.68,2025-02-16 19:30:38
+Sri Lanka,Colombo,23.97,70,couvert,1012,1.33,2025-02-16 19:30:38
+Guinée,Conakry,30.04,62,brume sèche,1007,3.09,2025-02-16 19:30:38
+Danemark,Copenhague,-6.59,84,ciel dégagé,1028,2.57,2025-02-16 19:30:38
+Djibouti,Djibouti,20.9,75,peu nuageux,1013,6.41,2025-02-16 19:30:38
+Sénégal,Dakar,21.07,73,ciel dégagé,1011,6.17,2025-02-16 19:30:38
+Syrie,Damas,8.64,67,ciel dégagé,1017,0.59,2025-02-16 19:30:38
+Bangladesh,Dhaka,21.99,73,brume sèche,1013,1.54,2025-02-16 19:30:38
+Qatar,Doha,19.38,83,ciel dégagé,1015,5.14,2025-02-16 19:30:38
+Irlande,Dublin,11.11,74,nuageux,1022,2.57,2025-02-16 19:30:38
+Finlande,Helsinki,-6.24,93,fortes chutes de neige,1015,3.13,2025-02-16 19:30:38
+Pakistan,Islamabad,15.47,62,ciel dégagé,1016,3.2,2025-02-16 19:30:38
+Indonésie,Jakarta,26.16,94,couvert,1010,3.19,2025-02-16 19:30:38
+Soudan du Sud,Juba,32.13,30,couvert,1006,1.76,2025-02-16 19:30:39
+Népal,Kathmandu,11.12,82,brume,1017,1.03,2025-02-16 19:30:39
+République Démocratique du Congo,Kinshasa,24.68,84,nuageux,1007,1.25,2025-02-16 19:30:39
+Rwanda,Kigali,20.96,68,partiellement nuageux,1012,1.54,2025-02-16 19:30:39
+Ukraine,Kiev,-7.93,79,nuageux,1021,1.16,2025-02-16 19:30:39
+Rwanda,Kigali,20.96,68,partiellement nuageux,1012,1.54,2025-02-16 19:30:39
+Malaisie,Kuala Lumpur,24.74,94,peu nuageux,1011,0,2025-02-16 19:30:39
+Nigéria,Lagos,27.85,84,peu nuageux,1007,3.58,2025-02-16 19:30:39
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:30:39
+Royaume-Uni,Londres,2.83,74,couvert,1022,6.17,2025-02-16 19:30:39
+Zambie,Lusaka,18.96,94,couvert,1010,1.43,2025-02-16 19:30:39
+Guinée équatoriale,Malabo,29.19,71,nuageux,1008,3.48,2025-02-16 19:30:39
+Nicaragua,Managua,31.69,48,partiellement nuageux,1010,6.17,2025-02-16 19:30:39
+Philippines,Manille,25.97,85,ciel dégagé,1012,1.79,2025-02-16 19:30:39
+Mozambique,Maputo,27.35,81,nuageux,1013,3.09,2025-02-16 19:30:39
+Lesotho,Maseru,15.33,87,forte pluie,1018,2.2,2025-02-16 19:30:40
+Biélorussie,Minsk,-7.33,62,nuageux,1021,2.21,2025-02-16 19:30:40
+Somalie,Mogadiscio,24.83,84,nuageux,1011,10.07,2025-02-16 19:30:40
+Liberia,Monrovia,26.8,76,ciel dégagé,1008,4.67,2025-02-16 19:30:40
+Russie,Moscou,-9.63,59,couvert,1014,2.76,2025-02-16 19:30:40
+Kenya,Nairobi,22.62,56,peu nuageux,1012,6.17,2025-02-16 19:30:40
+Mauritanie,Nouakchott,21.96,69,partiellement nuageux,1011,8.05,2025-02-16 19:30:40
+Canada,Ottawa,-8.04,89,fortes chutes de neige,997,8.75,2025-02-16 19:30:40
+France,Paris,3.99,76,nuageux,1019,4.63,2025-02-16 19:30:40
+Haïti,Port-au-Prince,32.48,33,partiellement nuageux,1014,2.54,2025-02-16 19:30:40
+Papouasie-Nouvelle-Guinée,Port Moresby,25.85,85,couvert,1009,1.77,2025-02-16 19:30:40
+Cap-Vert,Praia,23.3,60,nuageux,1014,8.23,2025-02-16 19:30:40
+Maroc,Rabat,16.04,77,partiellement nuageux,1016,2.57,2025-02-16 19:30:40
+Arabie Saoudite,Riyad,20.34,49,nuageux,1013,4.82,2025-02-16 19:30:40
+El Salvador,San Salvador,26.92,65,brume,1010,3.09,2025-02-16 19:30:41
+Yémen,Sanaa,18.71,48,nuageux,1017,0.73,2025-02-16 19:30:41
+Suède,Stockholm,-4.02,71,nuageux,1020,2.06,2025-02-16 19:30:41
+Bolivie,Sucre,20.74,47,partiellement nuageux,1005,5.23,2025-02-16 19:30:41
+Iran,Téhéran,8.73,23,nuageux,1018,0,2025-02-16 19:30:41
+Albanie,Tirana,9.49,71,ciel dégagé,1013,1.03,2025-02-16 19:30:41
+Tunisie,Tunis,18.78,36,couvert,1014,1.79,2025-02-16 19:30:41
+Canada,Vancouver,4.09,92,légère pluie,1013,5.14,2025-02-16 19:30:41
+Autriche,Vienne,-0.38,63,nuageux,1023,3.58,2025-02-16 19:30:41
+Lituanie,Vilnius,-6.54,77,nuageux,1021,3.6,2025-02-16 19:30:41
+Pologne,Warsaw,-4.83,71,ciel dégagé,1025,2.57,2025-02-16 19:30:41
+États-Unis,Washington D.C.,12.57,84,couvert,988,9.77,2025-02-16 19:30:41
+Arménie,Yerevan,-1.91,80,couvert,1021,1.03,2025-02-16 19:30:41
+Croatie,Zagreb,1.61,56,couvert,1022,3.6,2025-02-16 19:30:41
+Nigéria,Abuja,31.08,10,couvert,1007,1.61,2025-02-16 19:30:41
+Jordanie,Amman,8.05,81,ciel dégagé,1017,0,2025-02-16 19:30:42
+Turkménistan,Ashgabat,1.92,100,brume,1022,5.14,2025-02-16 19:30:42
+Azerbaïdjan,Baku,9.03,93,nuageux,1017,6.17,2025-02-16 19:30:42
+Gambie,Banjul,19.93,81,couvert,1009,7.19,2025-02-16 19:30:42
+République Centrafricaine,Bangui,28.1,44,brume sèche,1003,0.51,2025-02-16 19:30:42
+Gambie,Banjul,19.93,81,couvert,1009,7.19,2025-02-16 19:30:42
+Kirghizistan,Bishkek,-1.89,85,couvert,1030,1.68,2025-02-16 19:30:42
+Burundi,Bujumbura,23.05,82,légère pluie,1012,0.78,2025-02-16 19:30:42
+Roumanie,Bucharest,-2.61,89,chutes de neige,1022,4.12,2025-02-16 19:30:42
+Égypte,Cairo,18.42,45,ciel dégagé,1018,0,2025-02-16 19:30:42
+Australie,Canberra,7.19,78,ciel dégagé,1020,1.79,2025-02-16 19:30:42
+Afrique du Sud,Cape Town,20.63,77,ciel dégagé,1013,8.05,2025-02-16 19:30:42
+Bangladesh,Dhaka,21.99,73,brume sèche,1013,1.54,2025-02-16 19:30:42
+Sénégal,Dakar,21.07,73,ciel dégagé,1011,6.17,2025-02-16 19:30:42
+Qatar,Doha,19.38,83,ciel dégagé,1015,5.14,2025-02-16 19:30:42
+Rwanda,Kigali,20.96,68,partiellement nuageux,1012,1.54,2025-02-16 19:30:43
+Malaisie,Kuala Lumpur,24.74,94,peu nuageux,1011,0,2025-02-16 19:30:43
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:30:43
+Bahreïn,Manama,17.77,90,ciel dégagé,1016,4.12,2025-02-16 19:30:43
+Guinée Équatoriale,Malabo,29.19,71,nuageux,1008,3.48,2025-02-16 19:30:43
+Biélorussie,Minsk,-7.33,62,nuageux,1021,2.21,2025-02-16 19:30:43
+Philippines,Manila,25.97,85,ciel dégagé,1012,1.79,2025-02-16 19:30:43
+Zambie,Lusaka,18.96,94,couvert,1010,1.43,2025-02-16 19:30:43
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:30:43
+Royaume-Uni,Londres,2.83,74,couvert,1022,6.17,2025-02-16 19:30:43
+Liberia,Monrovia,26.8,76,ciel dégagé,1008,4.67,2025-02-16 19:30:43
+Haïti,Port-au-Prince,32.48,33,partiellement nuageux,1014,2.54,2025-02-16 19:30:43
+Émirats Arabes Unis,Abu Dhabi,23.44,68,ciel dégagé,1014,3.09,2025-02-16 19:42:28
+Nigéria,Abuja,31.08,10,couvert,1007,1.61,2025-02-16 19:42:28
+Algérie,Alger,15.46,59,ciel dégagé,1014,2.06,2025-02-16 19:42:28
+Jordanie,Amman,8.05,81,ciel dégagé,1017,0,2025-02-16 19:42:29
+Andorre,Andorra la Vella,-0.95,87,légères chutes de neige,1018,2.96,2025-02-16 19:42:29
+Madagascar,Antananarivo,18.98,100,pluie fine,1013,2.06,2025-02-16 19:42:29
+Antigua-et-Barbuda,Antigua,22.54,78,légère pluie,1013,2.2,2025-02-16 19:42:29
+Samoa,Apia,23.95,77,pluie modérée,1012,4.41,2025-02-16 19:42:29
+Turkménistan,Ashgabat,1.92,100,brume,1022,5.14,2025-02-16 19:42:29
+Paraguay,Asunción,38.49,41,peu nuageux,1003,6.17,2025-02-16 19:42:29
+Grèce,Athènes,12.04,91,partiellement nuageux,1014,1.54,2025-02-16 19:42:29
+Irak,Bagdad,10.95,58,nuageux,1017,1.54,2025-02-16 19:42:29
+Azerbaïdjan,Baku,9.03,93,nuageux,1018,4.12,2025-02-16 19:42:29
+Mali,Bamako,35.23,16,ciel dégagé,1007,1.03,2025-02-16 19:42:29
+République Centrafricaine,Bangui,28.1,44,brume sèche,1004,0.51,2025-02-16 19:42:29
+Gambie,Banjul,19.93,81,couvert,1009,7.19,2025-02-16 19:42:29
+Saint-Kitts-et-Nevis,Basseterre,28.21,65,peu nuageux,1016,6.17,2025-02-16 19:42:29
+Belize,Belize,31.23,52,couvert,1011,3.08,2025-02-16 19:42:29
+Kirghizistan,Bishkek,-1.89,83,partiellement nuageux,1030,1.34,2025-02-16 19:42:29
+Brésil,Brasília,28.51,51,pluie modérée,1012,4.12,2025-02-16 19:42:29
+Slovaquie,Bratislava,-1.61,67,ciel dégagé,1023,2.06,2025-02-16 19:42:29
+Barbade,Bridgetown,26.62,69,ciel dégagé,1013,9.66,2025-02-16 19:42:30
+Belgique,Bruxelles,0.78,69,ciel dégagé,1022,2.06,2025-02-16 19:42:30
+Roumanie,Bucarest,-2.82,89,chutes de neige,1022,4.12,2025-02-16 19:42:30
+Argentine,Buenos Aires,28.94,52,peu nuageux,1005,3.09,2025-02-16 19:42:30
+Burundi,Bujumbura,23.05,82,légère pluie,1012,0.78,2025-02-16 19:42:30
+Égypte,Caire,0.4,78,partiellement nuageux,1017,3.54,2025-02-16 19:42:30
+Australie,Canberra,7.13,78,ciel dégagé,1021,1.34,2025-02-16 19:42:30
+Venezuela,Caracas,26.49,54,couvert,1012,2.68,2025-02-16 19:42:30
+Sainte-Lucie,Castries,25.87,30,légère pluie,1014,8.75,2025-02-16 19:42:30
+Sri Lanka,Colombo,23.97,70,couvert,1012,1.33,2025-02-16 19:42:30
+Guinée,Conakry,30.04,62,brume sèche,1007,3.09,2025-02-16 19:42:30
+Danemark,Copenhague,-6.06,79,ciel dégagé,1028,2.57,2025-02-16 19:42:30
+Sénégal,Dakar,21.07,73,ciel dégagé,1011,6.17,2025-02-16 19:42:30
+Syrie,Damas,8.64,67,ciel dégagé,1017,0.59,2025-02-16 19:42:30
+Bangladesh,Dhaka,21.99,73,brume sèche,1013,1.54,2025-02-16 19:42:30
+Djibouti,Djibouti,20.9,75,peu nuageux,1013,6.41,2025-02-16 19:42:31
+Qatar,Doha,19.38,83,ciel dégagé,1015,5.14,2025-02-16 19:42:31
+Irlande,Dublin,11.48,72,nuageux,1022,2.57,2025-02-16 19:42:31
+Sierra Leone,Freetown,29.84,62,brume sèche,1008,4.63,2025-02-16 19:42:31
+Tuvalu,Funafuti,27,83,légère pluie,1012,1.03,2025-02-16 19:42:31
+Botswana,Gaborone,17.72,97,pluie modérée,1014,4.16,2025-02-16 19:42:31
+Guyana,Georgetown,25.69,78,peu nuageux,1010,0,2025-02-16 19:42:31
+Viêt Nam,Hanoï,16,80,couvert,1017,2.4,2025-02-16 19:42:31
+Zimbabwe,Harare,19.9,83,couvert,1013,1.81,2025-02-16 19:42:31
+Finlande,Helsinki,-6.61,92,fortes chutes de neige,1015,3.13,2025-02-16 19:42:31
+Îles Salomon,Honiara,26.12,85,légère pluie,1012,1.34,2025-02-16 19:42:31
+Pakistan,Islamabad,15.47,62,ciel dégagé,1016,3.16,2025-02-16 19:42:31
+Indonésie,Jakarta,25.64,94,couvert,1009,3.1,2025-02-16 19:42:31
+Soudan du Sud,Juba,32.13,30,couvert,1006,1.76,2025-02-16 19:42:31
+Afghanistan,Kaboul,2.98,53,ciel dégagé,1020,2.6,2025-02-16 19:42:31
+Ouganda,Kampala,20.86,69,nuageux,1010,0.57,2025-02-16 19:42:31
+Népal,Kathmandu,10.12,87,brume,1017,1.54,2025-02-16 19:42:31
+Soudan,Khartoum,27.54,4,ciel dégagé,1011,5.23,2025-02-16 19:42:31
+Ukraine,Kiev,-7.93,80,couvert,1021,1.79,2025-02-16 19:42:32
+Rwanda,Kigali,21.71,64,partiellement nuageux,1012,1.54,2025-02-16 19:42:32
+Saint-Vincent-et-les-Grenadines,Kingstown,26.6,74,légère pluie,1013,5.66,2025-02-16 19:42:32
+République Démocratique du Congo,Kinshasa,24.21,85,partiellement nuageux,1008,1.21,2025-02-16 19:42:32
+Koweït,Koweït,14.92,77,couvert,1015,4.27,2025-02-16 19:42:32
+Malaisie,Kuala Lumpur,24.74,94,peu nuageux,1011,0,2025-02-16 19:42:32
+Gabon,Libreville,24.01,88,orage et forte pluie,1009,7.72,2025-02-16 19:42:32
+Malawi,Lilongwe,19.84,94,couvert,1012,1.18,2025-02-16 19:42:32
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:42:32
+Portugal,Lisbonne,14.11,76,partiellement nuageux,1018,5.66,2025-02-16 19:42:32
+Slovénie,Ljubljana,-0.6,73,nuageux,1021,3.6,2025-02-16 19:42:32
+Togo,Lomé,29.09,84,peu nuageux,1007,5.66,2025-02-16 19:42:32
+Royaume-Uni,Londres,2.83,74,couvert,1022,7.2,2025-02-16 19:42:32
+Angola,Luanda,27.33,80,nuageux,1007,4.4,2025-02-16 19:42:32
+Zambie,Lusaka,18.57,95,couvert,1011,1.53,2025-02-16 19:42:32
+Espagne,Madrid,15.06,52,ciel dégagé,1015,4.12,2025-02-16 19:42:32
+Îles Marshall,Majuro,26.98,83,partiellement nuageux,1013,2.57,2025-02-16 19:42:32
+Guinée équatoriale,Malabo,29.19,71,nuageux,1008,3.48,2025-02-16 19:42:33
+Maldives,Malé,27.97,74,nuageux,1012,4.12,2025-02-16 19:42:33
+Nicaragua,Managua,31.69,48,partiellement nuageux,1010,6.17,2025-02-16 19:42:33
+Bahreïn,Manama,17.77,90,ciel dégagé,1016,4.12,2025-02-16 19:42:33
+Philippines,Manille,25.93,85,ciel dégagé,1012,2.68,2025-02-16 19:42:33
+Mozambique,Maputo,27.35,82,nuageux,1013,3.09,2025-02-16 19:42:33
+Lesotho,Maseru,15.33,87,forte pluie,1018,2.2,2025-02-16 19:42:33
+Eswatini,Mbabane,17.82,91,légère pluie,1015,0.79,2025-02-16 19:42:33
+Mexique,Mexico,25.84,93,ciel dégagé,1012,2.02,2025-02-16 19:42:33
+Biélorussie,Minsk,-7.5,64,ciel dégagé,1021,2.26,2025-02-16 19:42:33
+Somalie,Mogadiscio,24.83,84,nuageux,1011,10.07,2025-02-16 19:42:33
+Monaco,Monaco,11.62,73,couvert,1013,5.14,2025-02-16 19:42:33
+Liberia,Monrovia,26.8,76,ciel dégagé,1008,4.67,2025-02-16 19:42:33
+Uruguay,Montevideo,26.6,81,nuageux,1005,6.17,2025-02-16 19:42:33
+Russie,Moscou,-9.6,59,couvert,1014,2.76,2025-02-16 19:42:33
+Kenya,Nairobi,20.2,60,peu nuageux,1014,5.65,2025-02-16 19:42:33
+Bahamas,Nassau,7.18,98,forte pluie,988,2.57,2025-02-16 19:42:34
+Inde,New Delhi,17.09,72,brume sèche,1014,0,2025-02-16 19:42:34
+Niger,Niamey,35.16,10,couvert,1008,4.12,2025-02-16 19:42:34
+Chypre,Nicosie,7.83,87,partiellement nuageux,1017,2.57,2025-02-16 19:42:34
+Mauritanie,Nouakchott,21.96,69,partiellement nuageux,1011,8.05,2025-02-16 19:42:34
+Norvège,Oslo,-11.09,93,partiellement nuageux,1026,1.67,2025-02-16 19:42:34
+Canada,Ottawa,-8.08,89,fortes chutes de neige,995,8.75,2025-02-16 19:42:34
+Burkina Faso,Ouagadougou,36.07,11,ciel dégagé,1008,2.57,2025-02-16 19:42:34
+Micronésie,Palikir,27.41,78,partiellement nuageux,1012,2.06,2025-02-16 19:42:34
+Panama,Panama,31.21,67,légère pluie,1010,4.03,2025-02-16 19:42:34
+Suriname,Paramaribo,30.95,58,nuageux,1010,4.12,2025-02-16 19:42:34
+France,Paris,3.93,76,nuageux,1019,4.63,2025-02-16 19:42:34
+Cambodge,Phnom Penh,23.77,84,nuageux,1011,4.35,2025-02-16 19:42:35
+Monténégro,Podgorica,8.88,76,nuageux,1014,1.03,2025-02-16 19:42:35
+Maurice,Port Louis,24.68,90,couvert,1011,5.61,2025-02-16 19:42:35
+Papouasie-Nouvelle-Guinée,Port Moresby,25.85,85,couvert,1009,1.77,2025-02-16 19:42:35
+Vanuatu,Port-Vila,24.78,94,peu nuageux,1009,1.03,2025-02-16 19:42:35
+Haïti,Port-au-Prince,32.48,33,partiellement nuageux,1014,2.54,2025-02-16 19:42:35
+Trinité-et-Tobago,Port-d'Espagne,29.94,60,peu nuageux,1011,6.17,2025-02-16 19:42:35
+République Tchèque,Prague,-3.57,86,ciel dégagé,1025,2.06,2025-02-16 19:42:35
+Cap-Vert,Praia,23.3,60,nuageux,1014,8.23,2025-02-16 19:42:35
+Corée du Nord,Pyongyang,-2.52,43,ciel dégagé,1023,6.03,2025-02-16 19:42:35
+Équateur,Quito,17.53,82,pluie modérée,1013,1.88,2025-02-16 19:42:35
+Maroc,Rabat,16.04,77,partiellement nuageux,1017,2.57,2025-02-16 19:42:35
+Islande,Reykjavik,2.81,52,ciel dégagé,1022,7.2,2025-02-16 19:42:35
+Lettonie,Riga,-7.2,90,légères chutes de neige,1019,1.03,2025-02-16 19:42:35
+Arabie Saoudite,Riyad,19.89,51,partiellement nuageux,1014,3.62,2025-02-16 19:42:35
+Italie,Rome,8.26,65,couvert,1015,6.17,2025-02-16 19:42:36
+Dominique,Roseau,29.36,58,peu nuageux,1015,3.09,2025-02-16 19:42:36
+Grenade,Saint-Georges,28.82,74,légère pluie,1013,7.72,2025-02-16 19:42:36
+Saint-Marin,Saint-Marin,3.34,79,ciel dégagé,1016,2.06,2025-02-16 19:42:36
+Costa Rica,San José,13.95,68,nuageux,1021,3.09,2025-02-16 19:42:36
+El Salvador,San Salvador,26.92,65,brume,1010,3.09,2025-02-16 19:42:36
+Yémen,Sanaa,17.87,50,partiellement nuageux,1017,0.42,2025-02-16 19:42:36
+Chili,Santiago,27.79,28,ciel dégagé,1012,4.63,2025-02-16 19:42:36
+Bosnie-Herzégovine,Sarajevo,-0.05,100,brume,1018,0.51,2025-02-16 19:42:36
+Singapour,Singapour,26.19,84,nuageux,1010,2.24,2025-02-16 19:42:36
+Macédoine du Nord,Skopje,3.82,70,partiellement nuageux,1016,5.14,2025-02-16 19:42:36
+Bulgarie,Sofia,2.32,85,couvert,1018,4.12,2025-02-16 19:42:36
+Suède,Stockholm,-4.02,71,nuageux,1020,2.57,2025-02-16 19:42:36
+Bolivie,Sucre,20.74,47,partiellement nuageux,1005,5.23,2025-02-16 19:42:36
+Fidji,Suva,23.71,100,partiellement nuageux,1009,1.54,2025-02-16 19:42:36
+Corée du Sud,Séoul,-1.24,34,ciel dégagé,1022,6.17,2025-02-16 19:42:36
+Ouzbékistan,Tachkent,1.97,87,brume,1028,2.06,2025-02-16 19:42:36
+Estonie,Tallinn,-6.81,86,couvert,1014,3.09,2025-02-16 19:42:37
+Géorgie,Tbilissi,5.84,56,ciel dégagé,1017,4.63,2025-02-16 19:42:37
+Honduras,Tegucigalpa,28.03,37,peu nuageux,1013,5.14,2025-02-16 19:42:37
+Bhoutan,Thimphou,-0.98,96,nuageux,1020,0.62,2025-02-16 19:42:37
+Albanie,Tirana,9.49,71,ciel dégagé,1014,1.03,2025-02-16 19:42:37
+Japon,Tokyo,9.55,64,nuageux,1005,5.14,2025-02-16 19:42:37
+Libye,Tripoli,14.47,64,couvert,1017,2.23,2025-02-16 19:42:37
+Tunisie,Tunis,18.18,36,couvert,1015,1.65,2025-02-16 19:42:37
+Iran,Téhéran,8.73,23,nuageux,1018,0,2025-02-16 19:42:37
+Liechtenstein,Vaduz,0.44,87,couvert,1020,2.24,2025-02-16 19:42:37
+Malte,Valletta,13.3,88,ciel dégagé,1015,4.12,2025-02-16 19:42:37
+Autriche,Vienne,-0.58,63,nuageux,1023,4.02,2025-02-16 19:42:37
+Laos,Vientiane,28.29,52,couvert,1011,3.01,2025-02-16 19:42:37
+Lituanie,Vilnius,-6.81,77,nuageux,1022,3.09,2025-02-16 19:42:37
+Pologne,Warsaw,-5.29,65,ciel dégagé,1025,2.57,2025-02-16 19:42:37
+États-Unis,Washington D.C.,12.92,89,couvert,988,9.77,2025-02-16 19:42:37
+Nouvelle-Zélande,Wellington,15.81,88,nuageux,1013,1.03,2025-02-16 19:42:38
+Namibie,Windhoek,24.27,53,peu nuageux,1009,4.63,2025-02-16 19:42:38
+Cameroun,Yaoundé,25.74,73,peu nuageux,1008,2.06,2025-02-16 19:42:38
+Nauru,Yaren,27.36,72,couvert,1013,4.11,2025-02-16 19:42:38
+Arménie,Yerevan,-1.91,80,couvert,1021,0.51,2025-02-16 19:42:38
+Croatie,Zagreb,1.61,58,couvert,1022,3.09,2025-02-16 19:42:38
+Suisse,Zürich,1.18,82,nuageux,1019,2.57,2025-02-16 19:42:38
+Émirats Arabes Unis,Abu Dhabi,23.44,68,ciel dégagé,1014,3.09,2025-02-16 19:51:07
+Nigéria,Abuja,31.08,10,couvert,1007,1.61,2025-02-16 19:51:08
+Algérie,Alger,15.46,59,ciel dégagé,1014,1.54,2025-02-16 19:51:09
+Jordanie,Amman,8.05,81,ciel dégagé,1017,0,2025-02-16 19:51:10
+Andorre,Andorra la Vella,-0.95,87,ciel dégagé,1018,2.96,2025-02-16 19:51:12
+Madagascar,Antananarivo,18.98,100,pluie fine,1013,2.06,2025-02-16 19:51:13
+Antigua-et-Barbuda,Antigua,22.54,78,légère pluie,1013,2.2,2025-02-16 19:51:14
+Samoa,Apia,23.95,77,pluie modérée,1012,4.41,2025-02-16 19:51:15
+Turkménistan,Ashgabat,1.92,100,brume,1022,5.14,2025-02-16 19:51:16
+Paraguay,Asunción,39.6,38,peu nuageux,1003,6.17,2025-02-16 19:51:17
+Grèce,Athènes,11.98,90,partiellement nuageux,1014,1.54,2025-02-16 19:51:18
+Irak,Bagdad,10.95,58,nuageux,1017,1.54,2025-02-16 19:51:20
+Azerbaïdjan,Baku,9.03,93,nuageux,1018,4.12,2025-02-16 19:51:21
+Mali,Bamako,35.23,16,ciel dégagé,1007,1.03,2025-02-16 19:51:22
+République Centrafricaine,Bangui,28.1,44,fumée,1004,0.51,2025-02-16 19:51:23
+Gambie,Banjul,19.93,81,couvert,1009,7.19,2025-02-16 19:51:24
+Saint-Kitts-et-Nevis,Basseterre,28.21,65,peu nuageux,1016,6.17,2025-02-16 19:51:25
+Belize,Belize,31.23,52,couvert,1011,3.08,2025-02-16 19:51:26
+Kirghizistan,Bishkek,-1.89,83,partiellement nuageux,1030,1.34,2025-02-16 19:51:27
+Brésil,Brasília,28.51,51,forte pluie,1012,4.12,2025-02-16 19:51:29
+Slovaquie,Bratislava,-1.84,67,ciel dégagé,1023,2.06,2025-02-16 19:51:30
+Barbade,Bridgetown,26.62,69,ciel dégagé,1013,9.66,2025-02-16 19:51:31
+Belgique,Bruxelles,0.57,69,ciel dégagé,1022,2.06,2025-02-16 19:51:32
+Roumanie,Bucarest,-3.04,89,chutes de neige,1022,5.14,2025-02-16 19:51:33
+Argentine,Buenos Aires,28.99,52,peu nuageux,1005,3.09,2025-02-16 19:51:34
+Burundi,Bujumbura,23.05,82,légère pluie,1012,0.78,2025-02-16 19:51:35
+Égypte,Caire,0.4,78,partiellement nuageux,1017,3.54,2025-02-16 19:51:36
+Australie,Canberra,7.07,78,ciel dégagé,1021,1.34,2025-02-16 19:51:37
+Afrique du Sud,Cape Town,20.47,76,ciel dégagé,1013,8.49,2025-02-16 19:51:38
+Venezuela,Caracas,26.49,55,couvert,1012,8.75,2025-02-16 19:51:39
+Sainte-Lucie,Castries,25.87,35,légère pluie,1014,8.75,2025-02-16 19:51:40
+Sri Lanka,Colombo,23.97,70,couvert,1012,1.33,2025-02-16 19:51:42
+Guinée,Conakry,30.04,62,brume sèche,1007,3.09,2025-02-16 19:51:43
+Danemark,Copenhague,-6.06,79,ciel dégagé,1028,2.57,2025-02-16 19:51:44
+Sénégal,Dakar,21.07,73,ciel dégagé,1011,6.17,2025-02-16 19:51:45
+Syrie,Damas,8.64,67,ciel dégagé,1017,0.59,2025-02-16 19:51:47
+Bangladesh,Dhaka,21.99,73,brume sèche,1013,1.54,2025-02-16 19:51:48
+Djibouti,Djibouti,20.9,75,peu nuageux,1013,6.41,2025-02-16 19:51:49
+Qatar,Doha,19.38,83,ciel dégagé,1015,5.14,2025-02-16 19:51:50
+Irlande,Dublin,11.7,71,nuageux,1022,2.57,2025-02-16 19:51:51
+Sierra Leone,Freetown,29.84,62,brume sèche,1008,4.63,2025-02-16 19:51:52
+Tuvalu,Funafuti,27,83,nuageux,1012,1.03,2025-02-16 19:51:53
+Botswana,Gaborone,17.72,97,pluie modérée,1014,4.16,2025-02-16 19:51:54
+Guyana,Georgetown,25.73,78,orage,1010,1.03,2025-02-16 19:51:55
+Viêt Nam,Hanoï,16,80,couvert,1017,2.4,2025-02-16 19:51:56
+Zimbabwe,Harare,19.34,84,couvert,1013,1.81,2025-02-16 19:51:57
+Finlande,Helsinki,-6.61,91,fortes chutes de neige,1015,3.13,2025-02-16 19:51:58
+Îles Salomon,Honiara,26.12,85,légère pluie,1012,1.34,2025-02-16 19:51:59
+Pakistan,Islamabad,14.91,62,ciel dégagé,1016,3.16,2025-02-16 19:52:00
+Indonésie,Jakarta,25.64,94,couvert,1009,3.1,2025-02-16 19:52:02
+Soudan du Sud,Juba,32.13,30,couvert,1006,1.76,2025-02-16 19:52:03
+Afghanistan,Kaboul,2.98,53,ciel dégagé,1020,2.6,2025-02-16 19:52:04
+Ouganda,Kampala,20.86,69,nuageux,1010,0.57,2025-02-16 19:52:05
+Népal,Kathmandu,10.12,87,brume,1017,1.54,2025-02-16 19:52:06
+Soudan,Khartoum,27.54,4,ciel dégagé,1011,5.23,2025-02-16 19:52:07
+Ukraine,Kiev,-7.93,79,couvert,1021,1.79,2025-02-16 19:52:08
+Rwanda,Kigali,21.71,64,partiellement nuageux,1012,1.54,2025-02-16 19:52:09
+Saint-Vincent-et-les-Grenadines,Kingstown,26.6,74,légère pluie,1013,5.66,2025-02-16 19:52:10
+République Démocratique du Congo,Kinshasa,24.21,85,partiellement nuageux,1008,1.21,2025-02-16 19:52:11
+Koweït,Koweït,14.92,77,couvert,1015,4.27,2025-02-16 19:52:13
+Malaisie,Kuala Lumpur,24.74,94,peu nuageux,1011,0,2025-02-16 19:52:14
+Gabon,Libreville,24.01,88,orage et forte pluie,1009,7.72,2025-02-16 19:52:15
+Malawi,Lilongwe,19.84,94,couvert,1012,1.18,2025-02-16 19:52:16
+Pérou,Lima,25.14,73,partiellement nuageux,1011,3.6,2025-02-16 19:52:17
+Portugal,Lisbonne,13.47,77,peu nuageux,1018,4.12,2025-02-16 19:52:18
+Slovénie,Ljubljana,-0.72,73,nuageux,1021,3.6,2025-02-16 19:52:19
+Togo,Lomé,29.09,84,peu nuageux,1007,5.66,2025-02-16 19:52:20
+Royaume-Uni,Londres,2.83,74,couvert,1022,7.2,2025-02-16 19:52:22
+Angola,Luanda,27.33,80,nuageux,1007,4.4,2025-02-16 19:52:23
+Zambie,Lusaka,18.57,95,couvert,1011,1.53,2025-02-16 19:52:24
+Espagne,Madrid,14.89,53,ciel dégagé,1015,4.63,2025-02-16 19:52:25
+Îles Marshall,Majuro,26.98,83,partiellement nuageux,1013,2.57,2025-02-16 19:52:26
+Guinée équatoriale,Malabo,29.19,71,nuageux,1008,3.48,2025-02-16 19:52:27
+Maldives,Malé,27.97,74,nuageux,1012,4.12,2025-02-16 19:52:28
+Nicaragua,Managua,31.69,48,partiellement nuageux,1010,6.17,2025-02-16 19:52:29
+Bahreïn,Manama,17.77,90,ciel dégagé,1016,4.12,2025-02-16 19:52:31
+Philippines,Manille,25.93,85,ciel dégagé,1012,0.45,2025-02-16 19:52:32
+Mozambique,Maputo,27.32,81,nuageux,1013,3.13,2025-02-16 19:52:33
+Lesotho,Maseru,15.33,87,forte pluie,1018,2.2,2025-02-16 19:52:34
+Eswatini,Mbabane,17.82,91,légère pluie,1015,0.79,2025-02-16 19:52:35
+Mexique,Mexico,25.84,93,ciel dégagé,1012,2.02,2025-02-16 19:52:36
+Biélorussie,Minsk,-7.5,64,ciel dégagé,1021,2.26,2025-02-16 19:52:37
+Somalie,Mogadiscio,24.83,84,nuageux,1011,10.07,2025-02-16 19:52:39
+Monaco,Monaco,11.62,74,couvert,1013,5.14,2025-02-16 19:52:40
+Liberia,Monrovia,26.8,76,ciel dégagé,1008,4.67,2025-02-16 19:52:41
+Uruguay,Montevideo,26.6,80,nuageux,1005,6.17,2025-02-16 19:52:42
+Russie,Moscou,-10.19,58,couvert,1014,2.76,2025-02-16 19:52:43
+Kenya,Nairobi,20.2,60,peu nuageux,1014,5.65,2025-02-16 19:52:45
+Bahamas,Nassau,7.67,98,brume,988,5.36,2025-02-16 19:52:46
+Inde,New Delhi,17.09,72,brume sèche,1014,0,2025-02-16 19:52:48
+Niger,Niamey,35.16,10,couvert,1008,4.12,2025-02-16 19:52:50
+Chypre,Nicosie,7.83,87,partiellement nuageux,1017,2.57,2025-02-16 19:52:51
+Mauritanie,Nouakchott,21.96,69,partiellement nuageux,1011,8.05,2025-02-16 19:52:52
+Norvège,Oslo,-11.09,93,partiellement nuageux,1026,1.67,2025-02-16 19:52:56
+Canada,Ottawa,-8.09,90,fortes chutes de neige,995,8.75,2025-02-16 19:52:57
+Burkina Faso,Ouagadougou,36.07,11,ciel dégagé,1008,2.57,2025-02-16 19:52:58
+Micronésie,Palikir,27.41,78,partiellement nuageux,1012,2.06,2025-02-16 19:52:59
+Panama,Panama,31.21,67,légère pluie,1010,4.03,2025-02-16 19:53:00
+Suriname,Paramaribo,30.95,58,nuageux,1010,4.12,2025-02-16 19:53:01
+France,Paris,3.93,78,ciel dégagé,1019,4.63,2025-02-16 19:53:02
+Cambodge,Phnom Penh,26.95,89,peu nuageux,1011,2.57,2025-02-16 19:53:04
+Monténégro,Podgorica,8.88,76,nuageux,1014,1.03,2025-02-16 19:53:05
+Maurice,Port Louis,24.12,90,couvert,1011,5.61,2025-02-16 19:53:06
+Papouasie-Nouvelle-Guinée,Port Moresby,25.85,85,couvert,1009,1.77,2025-02-16 19:53:07
+Vanuatu,Port-Vila,24.78,94,peu nuageux,1009,1.03,2025-02-16 19:53:08
+Haïti,Port-au-Prince,32.48,33,partiellement nuageux,1014,2.54,2025-02-16 19:53:09
+Trinité-et-Tobago,Port-d'Espagne,29.94,60,peu nuageux,1011,6.17,2025-02-16 19:53:10
+République Tchèque,Prague,-3.43,86,ciel dégagé,1025,1.54,2025-02-16 19:53:11
+Cap-Vert,Praia,23.3,60,nuageux,1014,8.23,2025-02-16 19:53:12
+Corée du Nord,Pyongyang,-2.52,43,ciel dégagé,1023,6.03,2025-02-16 19:53:13
+Équateur,Quito,17.53,82,pluie modérée,1013,1.88,2025-02-16 19:53:14
+Maroc,Rabat,15.04,77,partiellement nuageux,1017,2.06,2025-02-16 19:53:15
+Islande,Reykjavik,2.81,52,ciel dégagé,1022,7.2,2025-02-16 19:53:16
+Lettonie,Riga,-7.2,90,légères chutes de neige,1019,1.54,2025-02-16 19:53:17
+Arabie Saoudite,Riyad,19.89,51,partiellement nuageux,1014,3.62,2025-02-16 19:53:19
+Italie,Rome,8.5,65,couvert,1015,6.17,2025-02-16 19:53:20
+Dominique,Roseau,29.36,58,peu nuageux,1015,3.09,2025-02-16 19:53:21
+Grenade,Saint-Georges,28.82,74,légère pluie,1013,7.72,2025-02-16 19:53:22
+Saint-Marin,Saint-Marin,3.4,80,ciel dégagé,1016,2.06,2025-02-16 19:53:23
+Costa Rica,San José,13.81,69,nuageux,1021,3.09,2025-02-16 19:53:24
+El Salvador,San Salvador,26.92,65,brume,1010,3.09,2025-02-16 19:53:25
+Yémen,Sanaa,17.87,50,partiellement nuageux,1017,0.42,2025-02-16 19:53:26
+Chili,Santiago,28.16,29,ciel dégagé,1012,4.63,2025-02-16 19:53:27
+Bosnie-Herzégovine,Sarajevo,0.95,93,brume,1018,1.03,2025-02-16 19:53:28
+Singapour,Singapour,26.19,84,nuageux,1010,2.24,2025-02-16 19:53:30
+Macédoine du Nord,Skopje,3.82,70,ciel dégagé,1016,5.14,2025-02-16 19:53:31
+Bulgarie,Sofia,2.32,85,couvert,1018,4.12,2025-02-16 19:53:32
+Suède,Stockholm,-4.02,71,nuageux,1020,2.57,2025-02-16 19:53:33
+Bolivie,Sucre,20.74,47,partiellement nuageux,1005,5.23,2025-02-16 19:53:34
+Fidji,Suva,23.71,100,partiellement nuageux,1009,1.54,2025-02-16 19:53:35
+Corée du Sud,Séoul,-1.24,34,ciel dégagé,1022,6.17,2025-02-16 19:53:36
+Ouzbékistan,Tachkent,1.97,80,brume,1028,1.03,2025-02-16 19:53:37
+Estonie,Tallinn,-6.81,86,couvert,1014,3.09,2025-02-16 19:53:38
+Géorgie,Tbilissi,5.84,56,ciel dégagé,1017,5.14,2025-02-16 19:53:41
+Honduras,Tegucigalpa,28.03,37,peu nuageux,1013,5.14,2025-02-16 19:53:42
+Bhoutan,Thimphou,-0.98,96,nuageux,1020,0.62,2025-02-16 19:53:43
+Albanie,Tirana,8.49,71,ciel dégagé,1014,0.51,2025-02-16 19:53:44
+Japon,Tokyo,9.55,64,nuageux,1005,5.66,2025-02-16 19:53:45
+Libye,Tripoli,14.47,64,couvert,1017,2.23,2025-02-16 19:53:46
+Tunisie,Tunis,18.18,36,couvert,1015,1.65,2025-02-16 19:53:47
+Iran,Téhéran,8.73,23,nuageux,1018,1.54,2025-02-16 19:53:48
+Liechtenstein,Vaduz,0.44,87,couvert,1020,1.79,2025-02-16 19:53:49
+Malte,Valletta,13.3,88,ciel dégagé,1015,2.57,2025-02-16 19:53:50
+Canada,Vancouver,4.06,92,légère pluie,1013,5.14,2025-02-16 19:53:51
+Autriche,Vienne,-0.69,63,nuageux,1023,5.81,2025-02-16 19:53:52
+Laos,Vientiane,28.29,52,couvert,1011,3.01,2025-02-16 19:53:54
+Lituanie,Vilnius,-6.81,78,nuageux,1022,3.09,2025-02-16 19:53:55
+Pologne,Warsaw,-4.99,60,ciel dégagé,1025,2.57,2025-02-16 19:53:56
+États-Unis,Washington D.C.,13.38,89,partiellement nuageux,988,9.77,2025-02-16 19:53:57
+Nouvelle-Zélande,Wellington,15.81,88,nuageux,1013,1.03,2025-02-16 19:53:58
+Namibie,Windhoek,24.27,53,peu nuageux,1009,4.63,2025-02-16 19:53:59
+Cameroun,Yaoundé,25.74,73,peu nuageux,1008,2.06,2025-02-16 19:54:00
+Nauru,Yaren,27.36,72,couvert,1013,4.11,2025-02-16 19:54:01
+Arménie,Yerevan,-1.91,80,couvert,1021,0.51,2025-02-16 19:54:03
+Croatie,Zagreb,1.61,58,couvert,1022,3.09,2025-02-16 19:54:04
+Suisse,Zürich,1.19,82,nuageux,1019,2.57,2025-02-16 19:54:05
