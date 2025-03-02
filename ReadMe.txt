@@ -18,7 +18,7 @@ Ce projet permet de récupérer les données météorologiques des capitales mon
   - [python-dotenv](https://pypi.org/project/python-dotenv/)
   - [pycountry](https://pypi.org/project/pycountry/) (pour obtenir des noms complets de pays)
   
-Pour installer ces dépendances, tu peux utiliser pip :
+Pour installer ces dépendances, on peut utiliser pip :
 
 ```bash
 pip install -r requirements.txt
