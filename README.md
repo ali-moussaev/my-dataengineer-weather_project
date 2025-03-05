@@ -96,7 +96,7 @@ Les contributions sont les bienvenues ! Pour contribuer :
 5. Ouvrez une Pull Request
 
 ## Licence
-Distribué sous la licence MIT. Voir `LICENSE` pour plus d'informations.
+Distribué sous la licence MIT.
 
 ## Contact
 Ali MOUSSAEV - [@GitHub](https://github.com/ali-moussaev)
