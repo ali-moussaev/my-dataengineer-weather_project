@@ -1,0 +1,30 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Database
+*.db
+
+# CSV files with data
+weather_data.csv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/ 
