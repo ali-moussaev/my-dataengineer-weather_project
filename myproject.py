@@ -1,19 +1,23 @@
-import requests # Importation de la bibliothèque requests pour les requêtes HTTP
-import pandas as pd # Importation de la bibliothèque pandas pour le traitement des données
-from datetime import datetime # Importation de la bibliothèque datetime pour les dates et les heures
-import pycountry  # Importation de la bibliothèque pycountry pour les noms complets des pays
-from dotenv import load_dotenv # Importation de la bibliothèque dotenv pour les variables d'environnement
+# Importation des bibliothèques nécessaires
+import requests 
+import pandas as pd
+from datetime import datetime 
+import pycountry
+from dotenv import load_dotenv 
 import os
 import time
 
-# Remplace 'your_api_key' par ta clé API OpenWeatherMap
+# Chargement des variables d'environnement et configuration de l'API
 load_dotenv()
-API_KEY = os.getenv('OPENWEATHER_API_KEY') # Récupération de la clé API depuis les variables d'environnement
-BASE_URL = "http://api.openweathermap.org/data/2.5/weather" # URL de l'API OpenWeatherMap
+API_KEY = os.getenv('OPENWEATHER_API_KEY')
+BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
+
+# Vérification de la présence de la clé API
 if not API_KEY:
-    raise ValueError("Clé API introuvable. Assure-toi que le fichier .env est bien configuré.") # Si la clé API n'est pas trouvée, on lève une erreur
+    raise ValueError("Clé API introuvable. Assure-toi que le fichier .env est bien configuré.")
 
 # Liste des capitales mondiales reconnues par l'ONU
+# Format: (Nom de la ville, Nom du pays)
 capitals = [
     ("Abu Dhabi", "Émirats Arabes Unis"),
     ("Abuja", "Nigéria"),
@@ -24,7 +28,7 @@ capitals = [
     ("Antigua", "Antigua-et-Barbuda"),
     ("Apia", "Samoa"),
     ("Ashgabat", "Turkménistan"),
-    ("Athènes", "Grèce")
+    ("Athènes", "Grèce"),
     ("Asunción", "Paraguay"),
     ("Bagdad", "Irak"),
     ("Baku", "Azerbaïdjan"),
@@ -180,60 +184,87 @@ capitals = [
     ("Zürich", "Suisse")
 ]
 
+# Tri et suppression des doublons dans la liste des capitales
 capitals = sorted(set(capitals), key=lambda x: x[0])
 
-
-# Fonction pour obtenir les données météo pour une ville donnée
 def extract_weather_data(city_name, country_name):
+    """
+    Récupère les données météorologiques pour une ville donnée via l'API OpenWeatherMap.
+    
+    Args:
+        city_name (str): Nom de la ville
+        country_name (str): Nom du pays
+        
+    Returns:
+        dict: Données météo brutes de l'API ou None en cas d'erreur
+    """
     params = {
         'q': f'{city_name},{country_name}',
         'appid': API_KEY,
-        'units': 'metric',
-        'lang': 'fr'
+        'units': 'metric',  # Utilisation des unités métriques (Celsius, m/s)
+        'lang': 'fr'        # Réponse en français
     }
     try:
         response = requests.get(BASE_URL, params=params)
-        response.raise_for_status()  # Lève une exception si le code de statut HTTP n'est pas 200
+        response.raise_for_status()
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"Erreur lors de l'extraction des données pour {city_name}, {country_name}: {e}")
         return None
 
-# Fonction pour nettoyer les données extraites
 def clean_data(data, country_name, city_name):
+    """
+    Nettoie et structure les données météorologiques brutes.
+    
+    Args:
+        data (dict): Données météo brutes de l'API
+        country_name (str): Nom du pays
+        city_name (str): Nom de la ville
+        
+    Returns:
+        pandas.DataFrame: DataFrame contenant les données nettoyées ou None si données invalides
+    """
     if data is None:
         return None
     
-    # Extraire les informations pertinentes
+    # Construction du dictionnaire avec les données pertinentes
     weather_info = {
-        'Country': country_name,  # Nom complet du pays
+        'Country': country_name,
         'City': city_name,
-        'Temperature': data['main']['temp'],
-        'Humidity': data['main']['humidity'],
-        'Weather': data['weather'][0]['description'],
-        'Pressure': data['main']['pressure'],
-        'Wind Speed': data['wind']['speed'],
-        'Date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        'Temperature': data['main']['temp'],      # Température en °C
+        'Humidity': data['main']['humidity'],     # Humidité en %
+        'Weather': data['weather'][0]['description'],  # Description météo en français
+        'Pressure': data['main']['pressure'],     # Pression en hPa
+        'Wind Speed': data['wind']['speed'],      # Vitesse du vent en m/s
+        'Date': datetime.now().strftime('%Y-%m-%d %H:%M:%S')  # Horodatage
     }
     
-    # Convertir en DataFrame pour faciliter le traitement
-    df = pd.DataFrame([weather_info])
-    return df
+    return pd.DataFrame([weather_info])
 
-# Fonction pour charger les données dans un fichier CSV
 def load_to_csv(df, filename="weather_data.csv"):
+    """
+    Sauvegarde les données dans un fichier CSV.
+    
+    Args:
+        df (pandas.DataFrame): DataFrame à sauvegarder
+        filename (str): Nom du fichier de sortie (default: "weather_data.csv")
+    """
     if df is not None:
-        # Si le fichier existe déjà, on l'ajoute à la fin (mode 'a')
+        # Mode 'a' pour append : ajoute les données à la fin du fichier
         df.to_csv(filename, mode='a', header=not pd.io.common.file_exists(filename), index=False)
         print(f"Les données ont été ajoutées à {filename}.")
     else:
         print("Aucune donnée à charger.")
 
-# Récupérer et charger les données pour chaque capitale
+# Boucle principale : récupération des données pour chaque capitale
+print("Début de la collecte des données météorologiques...")
 for city, country in capitals:
     print(f"Récupération des données météo pour {city}, {country}...")
     weather_data = extract_weather_data(city, country)
     if weather_data:
         cleaned_data = clean_data(weather_data, country, city)
         load_to_csv(cleaned_data)
-    time.sleep(1) # Attendre 1 seconde avant de récupérer les données pour la prochaine ville pour éviter les erreurs de connexion et surcharger l'API
+    # Pause d'une seconde pour respecter les limites de l'API
+    time.sleep(1)
+
+print("Collecte des données terminée.")
