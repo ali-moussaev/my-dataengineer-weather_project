@@ -24,8 +24,8 @@ capitals = [
     ("Antigua", "Antigua-et-Barbuda"),
     ("Apia", "Samoa"),
     ("Ashgabat", "Turkménistan"),
+    ("Athènes", "Grèce")
     ("Asunción", "Paraguay"),
-    ("Athènes", "Grèce"),
     ("Bagdad", "Irak"),
     ("Baku", "Azerbaïdjan"),
     ("Bamako", "Mali"),
